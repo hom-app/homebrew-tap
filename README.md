@@ -9,4 +9,4 @@ Installe l'app hom sur le Mac. Ouvre-la une première fois depuis Applications :
 - Mettre à jour : `brew upgrade hom`
 - Désinstaller : `brew uninstall hom` (les données restent) ou `brew uninstall --zap hom` (tout effacer)
 
-Plus d'informations : https://hom-ave.pages.dev
+Plus d'informations : https://gethom.app

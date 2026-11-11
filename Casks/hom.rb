@@ -5,7 +5,7 @@ cask "hom" do
   url "https://github.com/hom-app/releases/releases/download/v#{version}/hom-mac.dmg"
   name "hom"
   desc "Domotique qui aide à se sentir à la maison"
-  homepage "https://hom-ave.pages.dev/"
+  homepage "https://gethom.app/"
 
   livecheck do
     url :url
