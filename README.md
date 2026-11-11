@@ -1,6 +1,6 @@
 # hom pour Homebrew
 
-```
+```sh
 brew install hom-app/tap/hom
 ```
 
