@@ -1,6 +1,6 @@
 cask "hom" do
-  version "0.3.1"
-  sha256 "f5a1d2bcf9a414447cc48229ae78c8e6b68569d8f000cda4b3817a9730710371"
+  version "0.4.0"
+  sha256 "267762133c22c2d728b9cadae485d702ce3c6a6c3385892c4269edf58530a8f0"
 
   url "https://github.com/hom-app/releases/releases/download/v#{version}/hom-mac.dmg"
   name "hom"
